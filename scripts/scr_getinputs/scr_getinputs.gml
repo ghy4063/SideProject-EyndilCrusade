@@ -1,0 +1,1 @@
+key_right=keyboard_check_pressed(vk_right);
